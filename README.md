@@ -9,3 +9,7 @@ Façam um repositório no GitHub e façam a estrutura de pastas e arquivos corre
 
 - Django
 - Django Rest Framework
+
+# File Organization
+
+![layout application](file%20organization.png)
